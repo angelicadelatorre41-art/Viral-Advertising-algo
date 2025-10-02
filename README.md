@@ -1,1 +1,1 @@
-# Viral-Advertising-algo
+# Viral-Advertising-algo This program simulates a viral advertising campaign over n days. Each day, half of the people reached like the ad, those likes are added to the total, and each like leads to 3 new people being reached the next day.
